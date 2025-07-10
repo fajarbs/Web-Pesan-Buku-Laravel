@@ -286,7 +286,7 @@ ALTER TABLE `job_batches`
 --
 -- Indexes for table `migrations`
 --
-ALTER TABLE `migrations`
+CLTER TABLE `migrations`
   ADD PRIMARY KEY (`id`);
 
 --

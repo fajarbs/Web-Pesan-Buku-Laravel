@@ -26,9 +26,9 @@
         "LOG_CHANNEL": "stderr",
         "SESSION_DRIVER": "cookie",
         "DB_CONNECTION": "mysql",
-        "DB_HOST": "127.0.0.1",
-        "DB_PORT": "3306",
+        "DB_HOST": "gateway01.ap-southeast-1.prod.aws.tidbcloud.com",
+        "DB_PORT": "4000",
         "DB_DATABASE": "pesanbuku",
-        "DB_USERNAME": "root"
+        "DB_USERNAME": "47TVdEn9ZrgmTms.root"
     }
 }
